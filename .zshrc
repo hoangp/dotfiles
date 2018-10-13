@@ -1,1 +1,5 @@
-source "$HOME/.dotfiles/zshrc-`uname`.zsh"
+source "$HOME/.dotfiles/slimzsh/slim.zsh"
+source "$HOME/.dotfiles/zsh-autosuggestions/zsh-autosuggestions.zsh"
+source "$HOME/.dotfiles/zsh/colored-man-pages.plugin.zsh"
+source "$HOME/.dotfiles/zsh/aliases-global.zsh"
+source "$HOME/.dotfiles/zsh/zshrc-`uname`.zsh"
