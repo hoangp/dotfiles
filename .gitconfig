@@ -3,3 +3,5 @@
 # Please adapt and uncomment the following lines:
 	name = Hoang Pham
 	email = hoang.unsw@gmail.com
+[push]
+	default = simple
