@@ -1,6 +1,6 @@
 # dotfiles
 
-This is my dotfiles repository. There are many like it, but this one is mine. My style is minimal, modern and colorful.
+This is my dotfiles repository. There are many like it, but this one is mine. I prefer things minimal, modern and colorful.
 
 ## Setup
 
@@ -17,4 +17,4 @@ You should be able to pull all changes by simply rerunning the installer script.
 
 ## Customization
 
-I don't provide many hooks for further customization; I'm a firm believer that dotfiles should be personal. That being said, I am a big fan of sharing dotfiles and taking inspiration from others’ configurations. You are welcome to copy parts of my configuration.
+I don't provide any hooks for further customization; I think dotfiles should be personal. That being said, I am a big fan of sharing dotfiles and taking inspiration from others’ configurations. You are welcome to copy parts of my configuration.
